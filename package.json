@@ -1,0 +1,22 @@
+{
+  "name": "cypress.framework",
+  "version": "1.0.0",
+  "description": "Cypress project for harish",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "harish",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}

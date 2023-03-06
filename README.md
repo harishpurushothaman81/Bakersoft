@@ -1,4 +1,4 @@
-# BakerSoft Automatio suite (Local Machine setup)
+# BakerSoft Automation suite (Local Machine running steps)
 
 Prerequisites - Node Js , TypeScript and faker-js
 
